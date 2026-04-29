@@ -1,21 +1,22 @@
 # Cognifyz Power BI Internship - Investment Analysis
 
-This repository contains the tasks and final dashboard completed during my Power BI Virtual Internship at **Cognifyz Technologies**.
+This repository contains all the tasks and the final comprehensive dashboard completed during my Power BI Virtual Internship at **Cognifyz Technologies**.
 
-## 📊 Project Overview
-The objective of this internship was to analyze a dataset of investor preferences and behaviors to extract meaningful financial insights.
+## 📊 Project Scope
+The goal of this internship was to dive deep into investor psychology and preferences. I used Power BI to transform a raw dataset into actionable financial insights across 7 distinct levels of analysis.
 
-## 📁 Repository Structure
-- **Data_set 2.csv**: The raw investor dataset.
-- **Task_1.pbix to Task_6.pbix**: Individual files covering demographics, investment avenues, reasons for investment, and information sources.
-- **Task_7.pbix**: The final comprehensive dashboard consolidating all insights.
+## 📁 Repository Contents
+- **Data_set 2.csv**: The source data used for the entire analysis.
+- **Task_1 to Task_6**: Individual `.pbix` files covering specific analytical goals like demographics, investment reasons, and information sources.
+- **Task_7**: The final, interactive Master Dashboard.
 
-## 💡 Key Insights Derived
-- **Top Choice:** Mutual Funds are the dominant investment avenue, primarily chosen for better returns.
-- **Behavior:** Investors generally prefer medium-term durations (1-5 years) and monitor portfolios monthly.
-- **Information:** Financial consultants are the most trusted source of investment information.
+## 💡 Key Takeaways
+- **Investor Preference:** Mutual Funds are the top choice, primarily driven by the search for better returns.
+- **Goals:** Retirement planning is the leading motivator for long-term investments.
+- **Trust:** Most investors rely on Financial Consultants as their primary information source.
 
-## 🛠️ Tools Used
-- Power BI Desktop
-- Data Visualization & DAX
-- Exploratory Data Analysis (EDA)
+## 🛠️ Technical Skills
+- Data Cleaning & Transformation (Power Query)
+- Statistical Summarization
+- Comparative Analysis & Data Visualization
+- Dashboard Design & Layout
