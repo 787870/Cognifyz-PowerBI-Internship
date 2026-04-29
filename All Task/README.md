@@ -1,0 +1,28 @@
+# Cognifyz Power BI Internship - Investment Analysis
+
+![Investment Analysis Dashboard](All%20Task/Screenshot%202026-04-30%20012651.png)
+
+## 📊 Project Overview
+This repository showcases the work completed during my Power BI Virtual Internship at **Cognifyz Technologies**. The project involved a comprehensive analysis of investor preferences, focusing on demographics, investment avenues, and financial behavior.
+
+## 📁 Repository Structure
+- **All Task/**: This folder contains the raw source data and all project files.
+  - **Data_set 2.csv**: The source dataset.
+  - **Task_1.pbix to Task_6.pbix**: Individual files covering specific analytical goals.
+  - **Task_7.pbix**: The final comprehensive Master Dashboard.
+
+## 💡 Key Insights Derived
+- **Top Choice:** Mutual Funds are the dominant investment choice, primarily driven by a desire for **Better Returns**. 
+- **Objectives:** **Retirement Planning** is the most common goal, heavily influencing the preference for equity and mutual funds.
+- **Behavior:** Investors generally prefer **medium-term durations (1–5 years)** and monitor their portfolios **monthly**.
+- **Information:** **Financial Consultants** are the most trusted source of investment information.
+
+## 🛠️ Technical Skills Demonstrated
+- **Data Exploration:** Calculated key statistics, such as an average investor age of **27.80**.
+- **Data Visualization:** Created interactive charts (Donut, Pie, Bar, and Clustered Column) for clear data storytelling.
+- **Dashboard Design:** Polished the final layout for a professional user-friendly experience.
+
+## 🚀 How to View
+1. Navigate to the **All Task** folder.
+2. Download the `.pbix` files.
+3. Open them in **Power BI Desktop**.
