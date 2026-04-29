@@ -1,25 +1,28 @@
 # Cognifyz Power BI Internship - Investment Analysis
 
-This repository contains all the tasks and the final comprehensive dashboard completed during my Power BI Virtual Internship at **Cognifyz Technologies**.
+![Investment Analysis Dashboard](Screenshot%202026-04-30%20012651.png)
 
-![Investment Analysis Dashboard]
-(Screenshot 2026-04-30 012651.png)
+## 📊 Project Overview
+This repository showcases the work completed during my Power BI Virtual Internship at **Cognifyz Technologies**. The project involved a comprehensive analysis of investor preferences, focusing on demographics, investment avenues, and financial behavior.
 
-## 📊 Project Scope
-The goal of this internship was to dive deep into investor psychology and preferences. I used Power BI to transform a raw dataset into actionable financial insights across 7 distinct levels of analysis.
+## 📁 Repository Structure
+- **Data_set 2.csv**: The raw source data.
+- **Task_1 to Task_6**: Individual `.pbix` files covering specific analytical goals like demographics and information sources.
+- **Task_7.pbix**: The final comprehensive dashboard consolidating all project insights.
 
-## 📁 Repository Contents
-- **Data_set 2.csv**: The source data used for the entire analysis.
-- **Task_1 to Task_6**: Individual `.pbix` files covering specific analytical goals like demographics, investment reasons, and information sources.
-- **Task_7**: The final, interactive Master Dashboard.
+## 💡 Key Insights Derived
+- **Top Choice:** Mutual Funds are the dominant investment choice, primarily driven by a desire for **Better Returns**. 
+- **Objectives:** **Retirement Planning** is the most common goal, heavily influencing the preference for equity and mutual funds.
+- **Behavior:** Investors generally prefer **medium-term durations (1–5 years)** and monitor their portfolios **monthly**.
+- **Information:** **Financial Consultants** are the most trusted source of investment information.
 
-## 💡 Key Takeaways
-- **Investor Preference:** Mutual Funds are the top choice, primarily driven by the search for better returns.
-- **Goals:** Retirement planning is the leading motivator for long-term investments.
-- **Trust:** Most investors rely on Financial Consultants as their primary information source.
+## 🛠️ Technical Skills Demonstrated
+- **Data Exploration:** Calculated key statistics, such as an average investor age of **27.80**.
+- **Gender Analysis:** Compared investment preferences between male and female respondents.
+- **Data Visualization:** Created interactive charts (Donut, Pie, Bar, and Clustered Column) for clear data storytelling.
+- **Dashboard Design:** Polished the final layout for a professional user-friendly experience.
 
-## 🛠️ Technical Skills
-- Data Cleaning & Transformation (Power Query)
-- Statistical Summarization
-- Comparative Analysis & Data Visualization
-- Dashboard Design & Layout
+## 🚀 How to View
+1. Download the `.pbix` files.
+2. Open them in **Power BI Desktop**.
+3. Explore the interactive slicers and filters!
