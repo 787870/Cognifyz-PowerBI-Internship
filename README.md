@@ -2,6 +2,9 @@
 
 This repository contains all the tasks and the final comprehensive dashboard completed during my Power BI Virtual Internship at **Cognifyz Technologies**.
 
+![Investment Analysis Dashboard]
+(Screenshot 2026-04-30 012651.png)
+
 ## 📊 Project Scope
 The goal of this internship was to dive deep into investor psychology and preferences. I used Power BI to transform a raw dataset into actionable financial insights across 7 distinct levels of analysis.
 
