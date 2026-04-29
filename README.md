@@ -1,6 +1,7 @@
 # Cognifyz Power BI Internship - Investment Analysis
 
-![Investment Analysis Dashboard] <img width="1168" height="655" alt="Screenshot 2026-04-30 012651" src="https://github.com/user-attachments/assets/cc2f614c-11da-4af2-92ab-0ce9c5a544b4" />
+![Investment Analysis Dashboard]
+<img width="1168" height="655" alt="Screenshot 2026-04-30 012651" src="https://github.com/user-attachments/assets/cc2f614c-11da-4af2-92ab-0ce9c5a544b4" />
 
 
 ## 📊 Project Overview
