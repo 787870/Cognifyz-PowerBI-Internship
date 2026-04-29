@@ -1,8 +1,6 @@
 # Cognifyz Power BI Internship - Investment Analysis
 
-![Investment Analysis Dashboard]
 <img width="1168" height="655" alt="Screenshot 2026-04-30 012651" src="https://github.com/user-attachments/assets/cc2f614c-11da-4af2-92ab-0ce9c5a544b4" />
-
 
 ## 📊 Project Overview
 This repository showcases the work completed during my Power BI Virtual Internship at **Cognifyz Technologies**. The project involved a comprehensive analysis of investor preferences, focusing on demographics, investment avenues, and financial behavior.
